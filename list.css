@@ -1,0 +1,20 @@
+#Contacts{
+    color: greenyellow;
+  }
+
+  /* Chat list */
+  #Sms{
+    color: white;
+  }
+
+  #WhatsApp{
+    color: gold ;
+  }
+
+  #table_header{
+      color: goldenrod;
+      font-size: large;
+  }
+  th {
+    vertical-align: top;
+  }
